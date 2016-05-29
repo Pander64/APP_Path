@@ -155,6 +155,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  actionmailer (~> 4.2.0)
+  activerecord (~> 4.2.0)
   byebug
   coffee-rails (~> 4.1.0)
   jbuilder (~> 2.0)
